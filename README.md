@@ -1,2 +1,4 @@
-# Proyect-XFCE-pre-instaled-
-Esta es una imagen personalizada basada en el proyecto Darkos, optimizada para dispositivos R36S y similares. La principal ventaja de esta versión es que ya incluye el entorno gráfico Xorg configurado, ahorrando horas de instalación manual.
+# aisland FOR WINDOWS-
+Esta es la version para windows de nuestro nuevo chat bot ai *aisland*, está diseñado bajo LOVABLE, su enfoque está en tareas básicas, programación y una interfaz de usuario limpia y renovada.
+
+*esta es una versión ALPHA pre release, así que cualquier cambio se subirá aquí*
